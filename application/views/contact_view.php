@@ -14,7 +14,7 @@
 							<div class="gdlr-core-title-item-title-wrap clearfix">
 								<h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 35px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #ffffff ;">Contact Us</h3>
 							</div>
-							<span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 22px ;font-style: normal ;color: #ffffff ;margin-top: 25px ;">Get Intouch</span>
+							<!-- <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 22px ;font-style: normal ;color: #ffffff ;margin-top: 25px ;">Get Intouch</span> -->
 						</div>
 					</div>
 				</div>
